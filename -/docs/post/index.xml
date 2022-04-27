@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Miao Sun</title>
+    <link>https://rukd3.github.io/GBM/post/</link>
+    <description>Recent content in Posts on Miao Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 19:01:23 -0700</lastBuildDate><atom:link href="https://rukd3.github.io/GBM/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://rukd3.github.io/GBM/post/my-first-post/</link>
+      <pubDate>Sat, 09 Apr 2022 19:01:23 -0700</pubDate>
+      
+      <guid>https://rukd3.github.io/GBM/post/my-first-post/</guid>
+      
+        <description>test title 1 test title 2  test  print()</description>
+      
+    </item>
+    
+  </channel>
+</rss>
