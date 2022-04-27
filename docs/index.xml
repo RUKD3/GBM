@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miao Sun</title>
+    <link>https://jdkjjasd.github.io/miaosun/</link>
+    <description>Recent content on Miao Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 19:01:23 -0700</lastBuildDate><atom:link href="https://jdkjjasd.github.io/miaosun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jdkjjasd.github.io/miaosun/post/my-first-post/</link>
+      <pubDate>Sat, 09 Apr 2022 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/post/my-first-post/</guid>
+      
+        <description>test title 1 test title 2  test  print()</description>
+      
+    </item>
+    
+    <item>
+      <title>Face Mask Detecter</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/face-mask-detecter/</link>
+      <pubDate>Tue, 07 Dec 2021 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/face-mask-detecter/</guid>
+      
+        <description>Summary  Deployed an AI model to recognize whether a face on an image is wearing a mask The model was implemented using Tensorflow/Python The training data was collected from a public dataset was used to train the model The CNN was used The model achieves 97.5% accuracy on the validation/testing set after 15 times trainning  Click to Github </description>
+      
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/tic-tac-toe/</link>
+      <pubDate>Mon, 13 Sep 2021 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/tic-tac-toe/</guid>
+      
+        <description>Summary  A Tic Tac Toe Game allowed, player VS AI or player VS player The program was implemented using C++ The program checks game status(win, lose, tie) after each player or AI&amp;rsquo;s move The AI was implemented using the minimax algorithm. Therefore the AI never loses (only win or tie)  Click to Github </description>
+      
+    </item>
+    
+    <item>
+      <title>Let&#39;s Boat</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/lets-boat/</link>
+      <pubDate>Thu, 20 May 2021 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/lets-boat/</guid>
+      
+        <description>Summary  A local multiplayer boating game. Each player could control only one paddle from the boat The game&amp;rsquo;s goal is getting through teamwork to reach the terminus and elude obstacles The game was made by Unity and coding by C# The camera always follows and behind the player&amp;rsquo;s boat The paddle adds force and torque to the side of the boat to simulate natural boat movement  </description>
+      
+    </item>
+    
+    <item>
+      <title>Animal Crossing-Turnip Helper</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/animalcrossing-turniphelper/</link>
+      <pubDate>Sat, 01 May 2021 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/animalcrossing-turniphelper/</guid>
+      
+        <description>Summary   The program was implemented using C++  Click to Github </description>
+      
+    </item>
+    
+    <item>
+      <title>Cinema Helper</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/cinema-helper/</link>
+      <pubDate>Mon, 14 Dec 2020 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/cinema-helper/</guid>
+      
+        <description>Summary  A simple cinema movie management system to help a cinema manage movies schedule and compare the movie&amp;rsquo;s ratings The program was implemented using C++ The program was easy to add and delete movies The program used smart_ptr to manage memory and avoid memory leaks The user could change any movie&amp;rsquo;s schedule The program has excellent formatted output to print all the movies&amp;rsquo; info, showtime, and rate  Click to Github </description>
+      
+    </item>
+    
+    <item>
+      <title>Grade Calculator</title>
+      <link>https://jdkjjasd.github.io/miaosun/project/grade-calculator/</link>
+      <pubDate>Thu, 03 Dec 2020 19:01:23 -0700</pubDate>
+      
+      <guid>https://jdkjjasd.github.io/miaosun/project/grade-calculator/</guid>
+      
+        <description>Summary  The calculator is a Windows application that can load files to calculate the final grade The application was implemented using C# After loading files, the application shows students&amp;rsquo; info, including Name, Class, semester, and picture All the scores list in a ListBox to quickly check each test&amp;rsquo;s score The final grade is shown as a colored character. For example, A to C are black, D is orange, and F is red  Click to Github </description>
+      
+    </item>
+    
+  </channel>
+</rss>

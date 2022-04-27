@@ -1,0 +1,50 @@
+baseURL = 'https://jdkjjasd.github.io/miaosun/'
+languageCode = 'en-us'
+title = 'Miao Sun'
+theme = "Anatole" 
+
+[params]
+title = "Miao Sun"
+author = "Miao Sun"
+description = "Jr. softwear engineer"
+profilePicture = "images/profile.jpg"
+contentratio = 0.7
+displayMode = "dark"
+mainSections = []
+
+
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:msuen0528@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://jdkjjasd.github.io/miaosun/"
+
+
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Project"
+  weight = 200
+  identifier = "project"
+  url = "/project/"
+
+  [[menu.main]]
+  name = "Post"
+  weight = 300
+  identifier = "post"
+  url = "/post/"
