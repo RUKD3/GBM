@@ -17,6 +17,9 @@ toc = true
 * Arduino
 ***
 ***
+...
+{{< bilibili src="BV1sz4y197L8">}}
+...
 ***
 # EDUCATION
 ***
