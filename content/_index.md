@@ -31,6 +31,9 @@ toc = true
     * Object-Oriented Programming
     * Data Structure
 
+    {{< bilibili src="//player.bilibili.com/player.html?aid=683346847&bvid=BV16S4y1A7MY&cid=579930130&page=1" >}}
+
+
 ***
 #### 09/2012 - 07/2016
 ## Bachelor of Arts
