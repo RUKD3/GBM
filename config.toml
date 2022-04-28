@@ -1,4 +1,4 @@
-baseURL = "https://rukd3.github.io/GBM/"
+baseURL = 'https://rukd3.github.io/GBM/'
 languageCode = 'en-us'
 title = 'Miao Sun'
 theme = "Anatole" 
