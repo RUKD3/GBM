@@ -1,14 +1,14 @@
 baseURL = 'https://rukd3.github.io/GBM/'
 languageCode = 'en-us'
-title = 'Miao Sun'
+title = 'CLyde Zhang'
 theme = "Anatole" 
 
 [params]
-title = "Miao Sun"
-author = "Miao Sun"
-description = "Jr. softwear engineer"
-profilePicture = "images/fishhook.gif"
-contentratio = 0.7
+title = "CLyde Zhang"
+author = "CLyde Zhang"
+description = "game designer & CFX artist"
+profilePicture = "images/profile.jpg"
+contentratio = 0.73
 displayMode = "dark"
 mainSections = []
 
@@ -17,7 +17,7 @@ mainSections = []
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:msuen0528@gmail.com"
+url = "mailto:1095135154@qq.com"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -32,19 +32,25 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [menu]
 
   [[menu.main]]
-  name = "Home"
+  name = "	project	"
   identifier = "home"
   weight = 100
   url = "/"
 
   [[menu.main]]
-  name = "Project"
+  name = "	art works	"
   weight = 200
-  identifier = "project"
-  url = "/project/"
+  identifier = "art works"
+  url = "/art works/"
 
   [[menu.main]]
-  name = "Post"
+  name = "game experience"
   weight = 300
-  identifier = "post"
-  url = "/post/"
+  identifier = "game experience"
+  url = "/post/game ex"
+
+  [[menu.main]]
+  name = "about me"
+  weight = 400
+  identifier = "about"
+  url = "/about"
