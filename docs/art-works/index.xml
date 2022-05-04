@@ -5,41 +5,41 @@
     <link>https://rukd3.github.io/GBM/art-works/</link>
     <description>Recent content in Art works on CLyde Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 May 2021 19:01:23 -0700</lastBuildDate><atom:link href="https://rukd3.github.io/GBM/art-works/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rukd3.github.io/GBM/art-works/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Boat</title>
-      <link>https://rukd3.github.io/GBM/art-works/lets-boat/</link>
-      <pubDate>Thu, 20 May 2021 19:01:23 -0700</pubDate>
-      
-      <guid>https://rukd3.github.io/GBM/art-works/lets-boat/</guid>
-      
-        <description>Summary  A local multiplayer boating game. Each player could control only one paddle from the boat The game&amp;rsquo;s goal is getting through teamwork to reach the terminus and elude obstacles The game was made by Unity and coding by C# The camera always follows and behind the player&amp;rsquo;s boat The paddle adds force and torque to the side of the boat to simulate natural boat movement  </description>
-      
-    </item>
-    
-    <item>
-      <title>Animal Crossing-Turnip Helper</title>
-      <link>https://rukd3.github.io/GBM/art-works/animalcrossing-turniphelper/</link>
-      <pubDate>Sat, 01 May 2021 19:01:23 -0700</pubDate>
-      
-      <guid>https://rukd3.github.io/GBM/art-works/animalcrossing-turniphelper/</guid>
-      
-        <description>Summary  .meta-media { position: relative; margin-bottom: 30px; display: flex; width: 100%; height: 0; padding-bottom: 75%; } .video { position: absolute; width: 100%; height: 100%; left: 0; top: 0; }    </description>
-      
-    </item>
-    
-    <item>
-      <title></title>
+      <title>3D MODELING</title>
       <link>https://rukd3.github.io/GBM/art-works/art-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rukd3.github.io/GBM/art-works/art-work/</guid>
       
-        <description>INTRODUCTION 老渔夫是我和朋友们一起制作的一款横版闯关解密游戏，玩家将会在游戏中扮演一个渔夫，使用渔枪在梦境中穿梭，找寻自己失去的记忆并解开困在其心中对于海洋的恐惧。 游戏由三个关卡构成，分别是沙滩、洞窟森林以及海底世界
- .meta-media { position: relative; margin-bottom: 30px; display: flex; width: 100%; height: 0; padding-bottom: 75%; } .video { position: absolute; width: 100%; height: 100%; left: 0; top: 0; }     我在团队中主要负责游戏的玩法设计、引擎中的功能实现以及关卡1、2的设计与制作
-  EDUCATION  09/2016 - 12/2021 College Palomar College San Marcos, CA, U.S.   Courses
- Calculus, Deferential equation ARM/Assembly C# programming Object-Oriented Programming Data Structure   .</description>
+        <description>Work on Nomad 
+\
+Work on ZBrash 3DMax Substance</description>
+      
+    </item>
+    
+    <item>
+      <title>CODING</title>
+      <link>https://rukd3.github.io/GBM/art-works/3d-modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rukd3.github.io/GBM/art-works/3d-modeling/</guid>
+      
+        <description>coding by C++ 
+一个简单的HP模拟，询问当前的操作，并输出当前玩家的状态 \
+#include &amp;lt;iostream&amp;gt; #include &amp;lt;string&amp;gt; using namespace std; int main() { int hp = 50; char ch = &amp;#39;n&amp;#39;; int change = 0; cout &amp;lt;&amp;lt; &amp;#34;初始HP为&amp;#34; &amp;lt;&amp;lt; to_string(hp) &amp;lt;&amp;lt; endl; cout &amp;lt;&amp;lt; &amp;#34;请选择 伤害 或 治疗，用字母a或b表示&amp;#34; &amp;lt;&amp;lt; endl; cin &amp;gt;&amp;gt; ch; cout &amp;lt;&amp;lt; &amp;#34;请输入伤害或治疗的数值&amp;#34; &amp;lt;&amp;lt; endl; cin &amp;gt;&amp;gt; change; if (ch == &amp;#39;a&amp;#39; || ch == &amp;#39;b&amp;#39;) { if (ch == &amp;#39;a&amp;#39;) { cout &amp;lt;&amp;lt; &amp;#34;您选择了伤害&amp;#34; &amp;lt;&amp;lt; to_string(change) &amp;lt;&amp;lt; endl; hp -= change; } else { cout &amp;lt;&amp;lt; &amp;#34;您选择了治疗&amp;#34; &amp;lt;&amp;lt; to_string(change) &amp;lt;&amp;lt; endl; hp += change; } if (hp &amp;gt; 100) { hp = 100; } if (hp &amp;lt; 0) { hp = 0; } cout &amp;lt;&amp;lt; &amp;#34;玩家当前HP为&amp;#34; &amp;lt;&amp;lt; to_string(hp) &amp;lt;&amp;lt; endl &amp;lt;&amp;lt; &amp;#34;当前玩家状态为&amp;#34;; if (hp &amp;lt;= 0) { cout &amp;lt;&amp;lt; &amp;#34;死亡&amp;#34;; } else if (hp &amp;lt; 20) { cout &amp;lt;&amp;lt; &amp;#34;濒死&amp;#34;; } else if (hp &amp;lt; 80) { cout &amp;lt;&amp;lt; &amp;#34;正常&amp;#34;; } else { cout &amp;lt;&amp;lt; &amp;#34;完美&amp;#34;; } } else { cout &amp;lt;&amp;lt; &amp;#34;请重新输入&amp;#34;; } return 0; }</description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Painting</title>
+      <link>https://rukd3.github.io/GBM/art-works/painting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rukd3.github.io/GBM/art-works/painting/</guid>
+      
+        <description>Work on Procreate</description>
       
     </item>
     

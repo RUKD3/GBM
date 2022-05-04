@@ -1,51 +1,36 @@
+***
+***
+* NAME : å¼ é›¨èŒ
+* AGE : 22
+* GENDER : FEMALE
+***
+# SKILL
+* Digital Painting
+* 3D Modeling ( ZBrush  3D MAX MAYA )
+* PBR è´´å›¾ç»˜åˆ¶ï¼ˆSubstance Painter)
+* UE4 (Blueprint Material VFX etc.) 
+* CFX (å¸ƒæ–™ã€æ¯›å‘è§£ç®—ä¸Rigåˆ¶ä½œ)
+* Basic C++
+* Basic Python
+* Basic english speaking, listening
+***
 
-
-***
-***
-***
-# INTRODUCTION
-ÀÏÓæ·òÊÇÎÒºÍÅóÓÑÃÇÒ»ÆğÖÆ×÷µÄÒ»¿îºá°æ´³¹Ø½âÃÜÓÎÏ·£¬Íæ¼Ò½«»áÔÚÓÎÏ·ÖĞ°çÑİÒ»¸öÓæ·ò£¬Ê¹ÓÃÓæÇ¹ÔÚÃÎ¾³ÖĞ´©Ëó£¬ÕÒÑ°×Ô¼ºÊ§È¥µÄ¼ÇÒä²¢½â¿ªÀ§ÔÚÆäĞÄÖĞ¶ÔÓÚº£ÑóµÄ¿Ö¾å¡£
-ÓÎÏ·ÓÉÈı¸ö¹Ø¿¨¹¹³É£¬·Ö±ğÊÇÉ³Ì²¡¢¶´¿ßÉ­ÁÖÒÔ¼°º£µ×ÊÀ½ç
-  
-
-{{< bilibili src="//player.bilibili.com/player.html?aid=641041346&bvid=BV1BY4y187fJ&cid=585273719&page=1" >}}
-
-
-***
-ÎÒÔÚÍÅ¶ÓÖĞÖ÷Òª¸ºÔğÓÎÏ·µÄÍæ·¨Éè¼Æ¡¢ÒıÇæÖĞµÄ¹¦ÄÜÊµÏÖÒÔ¼°¹Ø¿¨1¡¢2µÄÉè¼ÆÓëÖÆ×÷
-***
-***
 # EDUCATION
 ***
-#### 09/2016 - 12/2021
-## College
-### Palomar College
-#### San Marcos, CA, U.S.  
+#### 09/2017 - 6/2021
+## ä¸­å›½ä¼ åª’å¤§å­¦å—å¹¿å­¦é™¢ CUCN
+### è‰ºæœ¯å­¦å­¦å£«å­¦ä½ Bachelor of Arts
+#### åŠ¨ç”»ä¸æ•°å­—è‰ºæœ¯ä¸“ä¸š æ¸¸æˆè®¾è®¡ä¸è¿è¥æ–¹å‘ Animation & Digital Art (Game design)
 * Courses
-    * Calculus, Deferential equation
-    * ARM/Assembly
-    * C# programming
-    * Object-Oriented Programming
-    * Data Structure
-
-    {{< bilibili src="//player.bilibili.com/player.html?aid=641041346&bvid=BV1BY4y187fJ&cid=585273719&page=1" >}}
-    ![test](images/profile.jpg)
-
-    ![fishhook](images/fishhook.gif)
-
+    * æ¸¸æˆè®¾è®¡ä¸è¿è¥ Game Design
+    * ä¸‰ç»´æ¨¡å‹ 3D Modeling
+    * ç»˜ç”»  Painting
 
 ***
-#### 09/2012 - 07/2016
-## Bachelor of Arts
-### Shenyang Conservatory of Music
-#### Shenyang, Liaoning, China
-* Major
-    * Modern Music institute, Instrument Performance, Saxophone
-***
-#### 09/2009 - 07/2012
-## High School
-### Qingdao 39th High School
-#### Qingdao, Shandong, China
-***
+# CONTACT ME
+* TEL : (+86) 151 5065 0852
+* EMAIL : 1095135154@qq.com / colliderjones@gmail.com
+* WECHAT ID : ftzs2333 
+
 ***
 ***
